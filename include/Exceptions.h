@@ -12,7 +12,7 @@ void themSimMoi(string soSim) {
         throw DuplicateIdException(soSim); 
     }
     
-    // Nếu không ném lỗi (tức là số mới tinh), code sẽ chạy tiếp xuống đây
+    // Nếu không ném lỗi (tức là số mới tinh), code sẽ chạy tiếp xuống đâ
     cout << "Da them SIM " << soSim << " thanh cong vao he thong!\n";
 }
 
